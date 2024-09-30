@@ -17,4 +17,4 @@ while x >= 0 do
 end
 
 #calling the function
-my_func("Wowza")
+my_func("Yippee!")
